@@ -1,0 +1,51 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Cachés de pruebas
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Modelos y datos generados por bootstrap
+data/modelo_riesgo.pkl
+data/escalador.pkl
+data/cadena_blockchain.json
+data/usuarios.json
+data/estudiantes.csv
+
+# Artefactos de capturas y análisis
+docs/capturas/*.png
+docs/figuras/*.png
+docs/seguridad/bandit_informe.html
+docs/seguridad/bandit_informe.json
+docs/seguridad/benchmarks.json
+docs/seguridad/resumen_manipulacion.json
+docs/metricas.json
+
+# Distribución
+*.egg-info/
+build/
+dist/
+*.zip

@@ -1,0 +1,147 @@
+{
+  "n_estudiantes": 300,
+  "n_train": 225,
+  "n_test": 75,
+  "distribucion_riesgo": {
+    "n_estudiantes": {
+      "Sin riesgo": 226,
+      "En riesgo": 74
+    },
+    "porcentaje": {
+      "Sin riesgo": 75.33,
+      "En riesgo": 24.67
+    }
+  },
+  "modelos": [
+    {
+      "nombre": "Regresión Logística",
+      "accuracy": 0.9733,
+      "precision": 0.9444,
+      "recall": 0.9444,
+      "f1": 0.9444,
+      "roc_auc": 0.9893,
+      "matriz_confusion": [
+        [
+          56,
+          1
+        ],
+        [
+          1,
+          17
+        ]
+      ]
+    },
+    {
+      "nombre": "Random Forest",
+      "accuracy": 0.9333,
+      "precision": 0.9333,
+      "recall": 0.7778,
+      "f1": 0.8485,
+      "roc_auc": 0.9961,
+      "matriz_confusion": [
+        [
+          56,
+          1
+        ],
+        [
+          4,
+          14
+        ]
+      ]
+    }
+  ],
+  "top10_riesgo": [
+    {
+      "id_estudiante": "EST-0128",
+      "probabilidad_riesgo": 1.0,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0210",
+      "probabilidad_riesgo": 1.0,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0144",
+      "probabilidad_riesgo": 1.0,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0054",
+      "probabilidad_riesgo": 0.98,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0230",
+      "probabilidad_riesgo": 0.98,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0111",
+      "probabilidad_riesgo": 0.97,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0100",
+      "probabilidad_riesgo": 0.96,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0171",
+      "probabilidad_riesgo": 0.96,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0165",
+      "probabilidad_riesgo": 0.95,
+      "prediccion": 1
+    },
+    {
+      "id_estudiante": "EST-0007",
+      "probabilidad_riesgo": 0.92,
+      "prediccion": 1
+    }
+  ],
+  "importancia_variables": [
+    {
+      "variable": "media",
+      "importancia": 0.34240562121959883
+    },
+    {
+      "variable": "asistencia_pct",
+      "importancia": 0.2079302740727162
+    },
+    {
+      "variable": "horas_estudio_semanal",
+      "importancia": 0.0904406723836471
+    },
+    {
+      "variable": "nota_lengua",
+      "importancia": 0.08900208500348906
+    },
+    {
+      "variable": "nota_historia",
+      "importancia": 0.07071158191636702
+    },
+    {
+      "variable": "nota_matematicas",
+      "importancia": 0.06643095330470103
+    },
+    {
+      "variable": "nota_ingles",
+      "importancia": 0.050766243629961315
+    },
+    {
+      "variable": "participacion_pct",
+      "importancia": 0.029064556738843023
+    },
+    {
+      "variable": "entregas_tardias",
+      "importancia": 0.027907301691860748
+    },
+    {
+      "variable": "nota_ciencias",
+      "importancia": 0.025340710038815693
+    }
+  ]
+}

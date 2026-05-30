@@ -1,0 +1,84 @@
+{
+  "dificultad": 2,
+  "bloques": [
+    {
+      "indice": 0,
+      "transacciones": [
+        {
+          "mensaje": "Bloque génesis - Learning Analytics Seguro"
+        }
+      ],
+      "hash_anterior": "0000000000000000000000000000000000000000000000000000000000000000",
+      "marca_tiempo": 1780145760.1632347,
+      "nonce": 706,
+      "raiz_merkle": "ff35ac4ae6219355297d95cfc03ae0d97d496a95036d32595089080b36914d17",
+      "hash_actual": "00d5207791dca75e38325dd6040625c1c5a97fb42521a15e1e8f2d29f60ebb54"
+    },
+    {
+      "indice": 1,
+      "transacciones": [
+        {
+          "tipo": "registrar_nota",
+          "emisor": "docente.test",
+          "marca_tiempo": 1780145760.167099,
+          "payload": {
+            "id_estudiante": "EST-0001",
+            "asignatura": "lengua",
+            "nota": 7.0
+          },
+          "firma_hex": "c7f6ecab4d0606b7fdf7e8ac072f3e01da4d76e12bec489c73db56078ed8151d9f4ba984af42f41843781be022238fbf8e1003208cab274889998d0bda4382119667e8f0a35a5a7bf32b1d5e3d2071b93c77f71b9cc6316f79e9b402f5313fcd21ed72cccdf7ba53e213c5c1c81cb06f87baf0e1e5abe0de4c2956380a87cb487f55fe01274c7907335c6d24c085db1d95d1c1dd42777c46674e54926d238883e3e853e17e1056d6ba4af1a3cb87c7976daea3aad83ca20f30c2f90303f0a935190927269aa6ddc27763178233ef82a94c475fc05898e77bff4ad6a168fcb8b7db557c0db83a39b515baf7c06f50b60377f80fb9c2b74732c20530cb9daafdaf",
+          "clave_publica_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyn2t70yU1Kh7mkaNq5xy\nH9sY/EMbTNyjCU7ARWO42QO+HyENZnADAMhbh85ngD0NWPot2haS44fv4KbxfY3N\nPXB2wH1umZh7H0uSgFsWX0yqSsCBJVQ6MVnnocBr9bMFo+JWo95eel/qheStVhWw\nCQbE4CF6O9oxpf/AromOqApMTksppskMoO0Oqohrb4wS7AyhBIozXUiqOSbCl+Np\nvx/O0uhu2IgXublJmmbAOrrbymW0+nk8PYIFKT7OPQ2NX6HhAAne0l73FI6Zk7T5\nluwKWb/3MYiKMQtO0GrR+9CcwIN+Y+NlX7uNibnL9XDseswo9n9Y/oel1Mtu/tiE\nswIDAQAB\n-----END PUBLIC KEY-----\n"
+        }
+      ],
+      "hash_anterior": "00d5207791dca75e38325dd6040625c1c5a97fb42521a15e1e8f2d29f60ebb54",
+      "marca_tiempo": 1780145760.2094626,
+      "nonce": 15,
+      "raiz_merkle": "4c866975983fca53e89c85ebc9acfbf73b57aa323ae99b78b161f9c06d423342",
+      "hash_actual": "0006e4a8f0e1a8d0b59858dcf060166852ee88c261d09f1ade852b4a016e7084"
+    },
+    {
+      "indice": 2,
+      "transacciones": [
+        {
+          "tipo": "registrar_nota",
+          "emisor": "docente.test",
+          "marca_tiempo": 1780145760.2099385,
+          "payload": {
+            "id_estudiante": "EST-0002",
+            "asignatura": "lengua",
+            "nota": 5.0
+          },
+          "firma_hex": "27adc79f1425d3bfaf76ccf4bada213d4fd47e09a7fb0f1f048caa71db272d5dd5a2148c684e80beae81ac87457998b42cf7dc77764d9af38db8f8713f9d1fe3a3660ee36ec199e79d13ca1b08df1c1374756f0b9e9b5b1b3229b864a962284af10b37a4baf9ded208cc177a52f43ef58d9ec99728669f7e1d408e31abe16c29d09f2534ef9fad9ea6a478811c021067bdd25dd4e7488f2711c1996cfe5ddaea490751a190a9309527b6a074f8cccaff4abe16f40ec5b7e4e3810a679ea2609ab2e087ec782f477ca2bccd98d1740215ac82023075b1fc040dae04f4c3ab146615f5b5d353f84f1e49d441e2e0891766e7cc0a6ad909a74c3329862dbf1ab2d1",
+          "clave_publica_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyn2t70yU1Kh7mkaNq5xy\nH9sY/EMbTNyjCU7ARWO42QO+HyENZnADAMhbh85ngD0NWPot2haS44fv4KbxfY3N\nPXB2wH1umZh7H0uSgFsWX0yqSsCBJVQ6MVnnocBr9bMFo+JWo95eel/qheStVhWw\nCQbE4CF6O9oxpf/AromOqApMTksppskMoO0Oqohrb4wS7AyhBIozXUiqOSbCl+Np\nvx/O0uhu2IgXublJmmbAOrrbymW0+nk8PYIFKT7OPQ2NX6HhAAne0l73FI6Zk7T5\nluwKWb/3MYiKMQtO0GrR+9CcwIN+Y+NlX7uNibnL9XDseswo9n9Y/oel1Mtu/tiE\nswIDAQAB\n-----END PUBLIC KEY-----\n"
+        }
+      ],
+      "hash_anterior": "0006e4a8f0e1a8d0b59858dcf060166852ee88c261d09f1ade852b4a016e7084",
+      "marca_tiempo": 1780145760.2521167,
+      "nonce": 16,
+      "raiz_merkle": "7d5bce056bda40876b0deddca61ac47338ddf3c15cd3fab35d9533300fbe3f9c",
+      "hash_actual": "006a731435dcbf85979b8b1a13e01ed5187072ac676c2d9d9f2aeefd5d48ec4e"
+    },
+    {
+      "indice": 3,
+      "transacciones": [
+        {
+          "tipo": "registrar_nota",
+          "emisor": "docente.test",
+          "marca_tiempo": 1780145760.2526596,
+          "payload": {
+            "id_estudiante": "EST-0001",
+            "asignatura": "ingles",
+            "nota": 8.0
+          },
+          "firma_hex": "2eb8a9146725eabaa3835accbc048ac9b3d30c2c15c2dcb97b190ba55ffe783274884b6ccfd60eef5f99cc4bd802296c8f6da2528fecadf646496533ac99069ac3d8e88077242ad6d1e9549db1edbcfffeadec52ad13388cc1b7f41c22767087db9bac057ecff11b56eaeee97494d0a2a5da08e5f86c7c588d086fccdb2113e951904f4012ea33257e05c95ad11d444c8e9e986d045c3305444730c8c117457204df1d60dd5cf1eb1e591bb63f043956551722890c619ae3705a528659114b71aac9e0ffbb4e7d8a81073eb214a0beb9b40ab8aa077ff405f5eca507f43f722e6641a50a5ec51d11b4eedd79c15cf765d4fe2c1081d92068b6dab6b04c3868d9",
+          "clave_publica_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyn2t70yU1Kh7mkaNq5xy\nH9sY/EMbTNyjCU7ARWO42QO+HyENZnADAMhbh85ngD0NWPot2haS44fv4KbxfY3N\nPXB2wH1umZh7H0uSgFsWX0yqSsCBJVQ6MVnnocBr9bMFo+JWo95eel/qheStVhWw\nCQbE4CF6O9oxpf/AromOqApMTksppskMoO0Oqohrb4wS7AyhBIozXUiqOSbCl+Np\nvx/O0uhu2IgXublJmmbAOrrbymW0+nk8PYIFKT7OPQ2NX6HhAAne0l73FI6Zk7T5\nluwKWb/3MYiKMQtO0GrR+9CcwIN+Y+NlX7uNibnL9XDseswo9n9Y/oel1Mtu/tiE\nswIDAQAB\n-----END PUBLIC KEY-----\n"
+        }
+      ],
+      "hash_anterior": "006a731435dcbf85979b8b1a13e01ed5187072ac676c2d9d9f2aeefd5d48ec4e",
+      "marca_tiempo": 1780145760.2952054,
+      "nonce": 112,
+      "raiz_merkle": "00c9c182dff5a4f71f8dfd5cf0c5aa32fe90733655f7ab2151473a665883d5da",
+      "hash_actual": "002c3d77ed66552218862f4100715bc661316c99999f15ff081623d5a5eae436"
+    }
+  ]
+}

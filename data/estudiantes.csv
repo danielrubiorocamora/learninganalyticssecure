@@ -1,0 +1,301 @@
+id_estudiante,nombre,email,nota_matematicas,nota_lengua,nota_ingles,nota_ciencias,nota_historia,media,asistencia_pct,participacion_pct,entregas_tardias,horas_estudio_semanal,riesgo
+EST-0001,Albano Llopis Hierro,alumno0001@euniv.edu,7.19,6.05,7.47,9.04,5.88,7.13,82.66,98.43,0,12.3,0
+EST-0002,Buenaventura de Bonet,alumno0002@euniv.edu,6.95,7.05,6.97,6.34,3.3,6.12,94.5,84.7,1,5.4,0
+EST-0003,Ileana Antón-Andrés,alumno0003@euniv.edu,6.73,4.15,6.87,9.08,10.0,7.37,88.94,72.2,1,8.5,0
+EST-0004,César Guerrero Vazquez,alumno0004@euniv.edu,6.92,9.71,8.52,6.86,6.16,7.63,83.38,60.39,3,10.0,0
+EST-0005,Alba Mar Flor Rivas,alumno0005@euniv.edu,10.0,8.45,6.69,7.89,4.48,7.5,69.17,83.93,1,8.4,0
+EST-0006,Jacobo del Agudo,alumno0006@euniv.edu,4.27,6.54,7.35,7.9,7.91,6.79,92.55,66.27,0,8.1,0
+EST-0007,Paco Rocamora Nieto,alumno0007@euniv.edu,4.8,5.96,3.34,3.87,2.21,4.04,58.04,54.63,7,8.1,1
+EST-0008,Casemiro Garrido-Navarro,alumno0008@euniv.edu,3.28,9.48,8.16,7.46,8.17,7.31,65.12,66.05,2,11.1,0
+EST-0009,Arturo Pinto Caballero,alumno0009@euniv.edu,5.92,5.53,7.2,8.38,6.76,6.76,88.15,94.69,2,10.5,0
+EST-0010,Soraya Núñez Lamas,alumno0010@euniv.edu,7.29,5.37,8.53,8.47,8.01,7.53,82.65,44.52,0,8.7,0
+EST-0011,Pánfilo Segovia Casanovas,alumno0011@euniv.edu,8.82,7.7,8.39,4.36,6.3,7.11,99.04,69.67,1,5.0,0
+EST-0012,Ani Marcos Pardo,alumno0012@euniv.edu,6.48,5.52,5.11,6.31,7.16,6.12,82.41,59.66,2,8.7,0
+EST-0013,Celia Baños-Arroyo,alumno0013@euniv.edu,10.0,9.35,9.42,6.36,10.0,9.03,70.98,80.56,0,16.6,0
+EST-0014,Rolando del Bernal,alumno0014@euniv.edu,7.11,9.66,10.0,9.57,8.02,8.87,81.34,81.68,1,6.3,0
+EST-0015,Toribio de Pinto,alumno0015@euniv.edu,7.42,6.01,5.6,4.71,5.66,5.88,90.56,88.79,2,11.6,0
+EST-0016,Javi Patiño-Cánovas,alumno0016@euniv.edu,6.77,7.71,4.07,3.92,7.24,5.94,87.97,74.51,1,11.0,0
+EST-0017,Felicidad Gallego Lasa,alumno0017@euniv.edu,8.53,6.71,10.0,8.85,5.86,7.99,91.57,52.46,3,12.4,0
+EST-0018,Marco Donoso Hierro,alumno0018@euniv.edu,7.78,9.71,5.86,4.94,4.7,6.6,76.84,68.61,4,11.0,0
+EST-0019,Jerónimo Pino Lerma,alumno0019@euniv.edu,1.67,4.14,2.47,5.96,4.28,3.7,68.63,37.77,7,6.2,1
+EST-0020,Constanza del Barba,alumno0020@euniv.edu,9.28,8.17,9.13,10.0,8.42,9.0,76.91,89.03,3,10.2,0
+EST-0021,Segismundo de Moles,alumno0021@euniv.edu,5.83,3.11,4.75,4.66,4.24,4.52,78.72,65.87,6,4.0,1
+EST-0022,Edelmira Batalla Galván,alumno0022@euniv.edu,5.43,6.45,10.0,2.94,7.54,6.47,68.87,61.51,0,13.3,0
+EST-0023,Valentina Miranda-Garcia,alumno0023@euniv.edu,9.11,6.53,7.29,4.01,10.0,7.39,100.0,94.54,3,12.5,0
+EST-0024,Gertrudis Segarra Clavero,alumno0024@euniv.edu,7.2,5.0,6.61,10.0,7.4,7.24,81.82,75.72,2,5.2,0
+EST-0025,Buenaventura Huerta-Jódar,alumno0025@euniv.edu,8.02,6.06,1.47,3.33,6.48,5.07,62.92,47.99,4,6.3,1
+EST-0026,Inés Pujol-Paredes,alumno0026@euniv.edu,2.71,3.96,9.08,8.68,6.07,6.1,80.34,71.05,2,17.0,0
+EST-0027,Bruno del Bou,alumno0027@euniv.edu,8.36,6.92,8.13,7.31,8.2,7.78,91.62,98.55,3,6.3,0
+EST-0028,Tito Canals Coronado,alumno0028@euniv.edu,8.51,6.88,7.63,7.11,6.94,7.41,93.5,76.43,4,7.9,0
+EST-0029,Ruy Roca Bartolomé,alumno0029@euniv.edu,5.19,2.92,0.98,2.0,3.0,2.82,81.62,67.95,7,2.7,1
+EST-0030,Francisca Solé Ángel,alumno0030@euniv.edu,5.81,5.2,9.74,8.22,3.07,6.41,80.53,91.69,3,6.4,0
+EST-0031,Leonel Alberdi-Carbó,alumno0031@euniv.edu,2.94,4.18,0.44,7.39,3.64,3.72,78.04,51.05,2,8.1,1
+EST-0032,Pili del Nieto,alumno0032@euniv.edu,5.45,6.72,3.69,3.77,5.01,4.93,82.87,75.6,2,14.4,1
+EST-0033,Eugenio Royo Cruz,alumno0033@euniv.edu,5.76,6.29,5.07,6.21,8.59,6.38,92.71,78.87,1,10.3,0
+EST-0034,Abril Lago Valle,alumno0034@euniv.edu,3.58,5.02,4.33,5.97,5.05,4.79,70.54,80.96,5,5.2,1
+EST-0035,José Luis Camino Martín,alumno0035@euniv.edu,6.1,8.06,3.68,7.71,6.02,6.31,71.45,88.59,0,4.6,0
+EST-0036,María Fernanda Flor,alumno0036@euniv.edu,6.92,9.68,8.01,5.26,4.68,6.91,89.92,46.24,2,15.5,0
+EST-0037,Glauco Cuéllar Abascal,alumno0037@euniv.edu,4.07,3.69,4.73,2.22,4.81,3.9,69.14,44.96,3,4.8,1
+EST-0038,Etelvina Laura Aliaga Caparrós,alumno0038@euniv.edu,6.77,6.84,9.03,6.86,5.74,7.05,69.01,45.37,3,11.6,0
+EST-0039,Valeria Meléndez Heras,alumno0039@euniv.edu,4.64,7.89,4.41,6.99,4.51,5.69,81.53,58.48,2,4.5,0
+EST-0040,Dionisio Bermúdez Boada,alumno0040@euniv.edu,7.46,8.76,4.56,7.53,8.21,7.3,67.41,48.7,3,3.9,0
+EST-0041,Sabina Bayón Casas,alumno0041@euniv.edu,9.23,3.82,3.23,6.2,6.99,5.89,84.67,32.79,2,9.7,1
+EST-0042,Narciso Talavera Dalmau,alumno0042@euniv.edu,6.02,8.88,9.35,7.48,10.0,8.35,81.81,61.96,0,8.6,0
+EST-0043,Juan Luis Rocha-Galán,alumno0043@euniv.edu,7.05,6.57,7.81,6.14,7.0,6.91,73.02,100.0,0,10.1,0
+EST-0044,Priscila de Mesa,alumno0044@euniv.edu,8.93,10.0,9.53,6.88,6.67,8.4,90.8,60.15,2,6.3,0
+EST-0045,Nazaret Perea Ríos,alumno0045@euniv.edu,10.0,7.55,9.04,8.56,10.0,9.03,96.2,67.7,1,7.1,0
+EST-0046,Jennifer Carrillo,alumno0046@euniv.edu,6.64,5.44,6.84,6.05,10.0,6.99,93.82,69.86,0,14.4,0
+EST-0047,Daniel de Neira,alumno0047@euniv.edu,10.0,9.83,7.21,10.0,7.3,8.87,78.32,95.12,3,6.1,0
+EST-0048,Macario Grau Giménez,alumno0048@euniv.edu,7.35,7.57,7.18,6.87,7.31,7.26,80.87,55.09,1,8.4,0
+EST-0049,Andrés Felipe Barral Granados,alumno0049@euniv.edu,1.8,7.53,7.0,6.15,6.73,5.84,87.74,56.97,4,8.4,0
+EST-0050,Víctor Angulo Murillo,alumno0050@euniv.edu,5.11,7.33,4.93,3.05,3.37,4.76,85.48,74.68,2,7.3,0
+EST-0051,José Ángel Gárate Lopez,alumno0051@euniv.edu,10.0,3.4,6.03,5.57,5.22,6.04,92.6,89.91,2,12.3,0
+EST-0052,Clotilde Catalán Suárez,alumno0052@euniv.edu,9.04,7.63,8.67,6.91,8.16,8.08,83.44,91.02,1,10.8,0
+EST-0053,Ruben del Ramírez,alumno0053@euniv.edu,7.12,7.22,8.71,7.24,8.52,7.76,100.0,85.68,3,9.0,0
+EST-0054,Asdrubal Caballero,alumno0054@euniv.edu,0.83,3.57,4.23,7.22,4.79,4.13,67.81,54.93,6,0.0,1
+EST-0055,Felicidad Roda Reig,alumno0055@euniv.edu,7.22,8.55,8.04,6.45,5.42,7.14,89.04,50.35,1,7.5,0
+EST-0056,Teresa Balaguer Cabello,alumno0056@euniv.edu,9.02,7.02,5.67,7.79,8.62,7.62,80.55,62.31,4,8.3,0
+EST-0057,Heriberto Nicolau Canales,alumno0057@euniv.edu,6.61,5.76,4.8,10.0,9.18,7.27,84.44,75.04,2,6.6,0
+EST-0058,Clemente de Sanabria,alumno0058@euniv.edu,9.51,7.36,6.69,7.1,6.75,7.48,73.6,45.85,4,15.7,0
+EST-0059,Héctor Español Lopez,alumno0059@euniv.edu,8.1,9.97,4.95,10.0,7.72,8.15,80.73,51.78,3,5.0,0
+EST-0060,Diana Benet Salazar,alumno0060@euniv.edu,5.7,9.3,5.83,3.59,5.86,6.06,82.27,21.46,3,9.8,0
+EST-0061,Ariel de Alcolea,alumno0061@euniv.edu,3.72,2.21,8.83,4.31,4.23,4.66,69.76,43.57,2,3.6,1
+EST-0062,Renato Guzmán Delgado,alumno0062@euniv.edu,10.0,4.31,8.8,1.51,2.56,5.44,72.59,48.8,3,10.6,1
+EST-0063,Julieta Teruel García,alumno0063@euniv.edu,7.8,3.91,5.65,6.17,7.17,6.14,77.27,68.39,1,10.1,0
+EST-0064,Yaiza Barral Cózar,alumno0064@euniv.edu,6.48,6.07,7.2,4.4,5.67,5.96,82.71,84.65,4,7.2,0
+EST-0065,Abril Portero Lara,alumno0065@euniv.edu,5.27,3.64,4.79,1.95,5.86,4.3,68.15,30.59,5,7.1,1
+EST-0066,Eloísa Rocha Torrecilla,alumno0066@euniv.edu,2.55,9.35,6.68,6.13,5.32,6.01,88.99,69.32,3,13.3,0
+EST-0067,Claudio Martin Gelabert,alumno0067@euniv.edu,8.55,4.92,5.57,9.34,8.31,7.34,83.16,70.33,1,11.0,0
+EST-0068,Luis Miguel Barrera Mir,alumno0068@euniv.edu,8.35,6.24,8.73,4.94,9.85,7.62,89.73,74.61,2,12.9,0
+EST-0069,Amador Tapia Valverde,alumno0069@euniv.edu,6.02,7.75,6.99,2.03,5.67,5.69,86.99,44.18,1,11.7,0
+EST-0070,Camila Barberá,alumno0070@euniv.edu,10.0,6.41,9.03,4.84,10.0,8.06,81.95,71.72,1,10.5,0
+EST-0071,Anita Estevez,alumno0071@euniv.edu,9.09,5.27,7.99,6.81,4.96,6.82,94.87,63.66,0,10.7,0
+EST-0072,Manuel Bayo Gutierrez,alumno0072@euniv.edu,4.14,7.39,3.07,7.46,5.47,5.51,64.38,51.38,3,6.9,1
+EST-0073,Azeneth Hoz Ariño,alumno0073@euniv.edu,4.07,5.32,4.52,1.8,4.88,4.12,76.11,50.08,7,7.2,1
+EST-0074,Anita Hortensia Yáñez Molina,alumno0074@euniv.edu,7.07,6.67,6.79,4.0,4.35,5.78,95.53,69.29,4,12.0,0
+EST-0075,Cristian Miralles-Gómez,alumno0075@euniv.edu,3.77,7.2,4.42,8.6,5.83,5.96,86.35,77.43,4,4.2,0
+EST-0076,Hector Castro-Marín,alumno0076@euniv.edu,6.45,8.22,5.37,8.84,10.0,7.78,81.37,61.98,2,14.4,0
+EST-0077,Estela Belmonte Agustí,alumno0077@euniv.edu,3.66,2.75,2.39,2.31,0.72,2.37,57.93,20.73,7,6.0,1
+EST-0078,María Ángeles Cabo Beltrán,alumno0078@euniv.edu,8.4,9.22,3.47,6.43,5.37,6.58,79.01,80.0,1,8.1,0
+EST-0079,Clotilde del Cazorla,alumno0079@euniv.edu,7.33,5.89,9.43,9.89,8.62,8.23,81.23,57.31,3,7.9,0
+EST-0080,Vera Bayona Hidalgo,alumno0080@euniv.edu,7.35,9.05,8.98,9.95,6.47,8.36,86.05,38.53,2,6.2,0
+EST-0081,Elodia Cruz Ríos,alumno0081@euniv.edu,5.37,6.7,6.27,8.44,10.0,7.36,79.69,61.19,2,13.1,0
+EST-0082,Ofelia del Ángel,alumno0082@euniv.edu,8.43,8.55,9.68,8.76,8.73,8.83,92.15,79.04,3,12.6,0
+EST-0083,Nazario Marí Calleja,alumno0083@euniv.edu,5.63,4.8,5.06,7.19,7.05,5.95,89.0,65.94,3,10.0,0
+EST-0084,Eligio Carlos Campo,alumno0084@euniv.edu,5.56,1.77,6.89,4.58,4.68,4.7,65.99,49.68,6,4.1,1
+EST-0085,Calixta del Luján,alumno0085@euniv.edu,8.23,4.45,6.54,5.04,8.45,6.54,69.77,59.94,1,11.1,0
+EST-0086,Clementina Paca Novoa Frutos,alumno0086@euniv.edu,10.0,7.88,7.0,10.0,5.39,8.05,63.01,77.92,2,8.5,0
+EST-0087,José Antonio Torres-Iglesias,alumno0087@euniv.edu,6.22,6.56,3.8,2.14,3.99,4.54,76.33,17.91,5,9.0,1
+EST-0088,Arturo Roda Lloret,alumno0088@euniv.edu,6.43,5.89,8.01,5.68,7.21,6.64,84.71,74.85,5,9.3,0
+EST-0089,Abel Múgica Castrillo,alumno0089@euniv.edu,10.0,8.88,6.14,7.91,8.67,8.32,77.43,45.55,1,9.1,0
+EST-0090,Cecilio Sala-Roma,alumno0090@euniv.edu,5.14,9.02,6.86,9.79,7.5,7.66,84.75,66.89,2,7.9,0
+EST-0091,Adelia de Benet,alumno0091@euniv.edu,9.41,8.77,6.26,7.91,7.99,8.07,73.42,97.06,1,12.6,0
+EST-0092,Leandro Araujo Peiró,alumno0092@euniv.edu,6.68,2.62,5.86,5.07,4.5,4.95,82.19,100.0,2,11.9,1
+EST-0093,Mamen Colomer-Ropero,alumno0093@euniv.edu,6.8,4.86,9.56,6.94,7.01,7.03,91.81,59.57,1,13.3,0
+EST-0094,Alfonso Mendez Pastor,alumno0094@euniv.edu,6.51,8.01,5.94,8.67,7.02,7.23,100.0,63.35,0,10.6,0
+EST-0095,Vinicio Pallarès Gallo,alumno0095@euniv.edu,6.83,7.13,7.42,8.76,8.94,7.82,79.26,69.56,2,16.4,0
+EST-0096,Nazario de Otero,alumno0096@euniv.edu,4.27,7.32,5.4,6.68,8.26,6.39,83.89,86.79,2,12.6,0
+EST-0097,Verónica del Cortes,alumno0097@euniv.edu,4.6,6.08,7.23,3.37,6.14,5.48,69.61,36.89,7,6.7,1
+EST-0098,Toni de Elorza,alumno0098@euniv.edu,7.19,6.77,5.31,5.09,6.25,6.12,96.73,79.78,2,8.9,0
+EST-0099,Aitana Escobar Márquez,alumno0099@euniv.edu,2.12,4.77,4.87,4.04,5.65,4.29,57.54,59.94,4,1.9,1
+EST-0100,Rosario Hurtado Lasa,alumno0100@euniv.edu,4.34,1.89,5.99,3.31,1.4,3.39,65.72,67.01,2,6.6,1
+EST-0101,Rufino Campoy Piñeiro,alumno0101@euniv.edu,9.52,10.0,10.0,7.84,8.65,9.2,97.99,64.54,0,11.1,0
+EST-0102,Timoteo Sosa Girón,alumno0102@euniv.edu,6.17,6.23,7.61,6.39,7.62,6.8,84.19,71.42,0,4.0,0
+EST-0103,Sebastian Seguí,alumno0103@euniv.edu,6.55,7.11,6.06,8.25,2.52,6.1,100.0,54.32,0,11.2,0
+EST-0104,Encarnación Goñi Gisbert,alumno0104@euniv.edu,8.29,4.43,7.4,4.4,5.18,5.94,100.0,66.57,5,10.7,0
+EST-0105,Narciso Ferrando Pujadas,alumno0105@euniv.edu,8.36,9.89,9.99,10.0,9.15,9.48,73.57,99.4,0,6.6,0
+EST-0106,Eligia Baños Lorenzo,alumno0106@euniv.edu,8.11,5.85,6.91,8.88,7.32,7.41,88.56,39.67,5,7.2,0
+EST-0107,Miguela Vergara Pulido,alumno0107@euniv.edu,8.22,6.15,5.7,5.04,6.41,6.3,100.0,42.05,1,9.1,0
+EST-0108,Eusebia de Carlos,alumno0108@euniv.edu,6.61,5.04,8.26,9.06,2.25,6.24,78.17,71.06,1,13.4,0
+EST-0109,Chuy Lara-Arenas,alumno0109@euniv.edu,4.22,3.54,8.9,3.02,10.0,5.94,92.25,82.24,2,11.7,0
+EST-0110,Marc Rovira Ojeda,alumno0110@euniv.edu,5.57,4.71,4.39,4.09,2.84,4.32,67.19,9.53,6,3.7,1
+EST-0111,Isa Vidal Carlos,alumno0111@euniv.edu,3.11,1.34,3.96,3.91,2.46,2.96,75.51,73.24,5,4.7,1
+EST-0112,Ximena Falcón Iñiguez,alumno0112@euniv.edu,6.96,8.11,8.85,8.25,10.0,8.43,88.84,64.89,1,11.2,0
+EST-0113,Paulino Rubio Abellán,alumno0113@euniv.edu,8.37,5.76,5.8,7.65,7.64,7.04,77.99,84.45,2,8.3,0
+EST-0114,Ángela Figueras,alumno0114@euniv.edu,6.5,10.0,5.86,8.56,9.14,8.01,89.14,66.66,0,9.6,0
+EST-0115,Irene Becerra Murillo,alumno0115@euniv.edu,6.4,7.12,1.43,4.68,6.83,5.29,53.15,45.66,7,4.0,1
+EST-0116,Estefanía Narcisa Casanovas Mas,alumno0116@euniv.edu,4.74,3.24,1.28,5.21,2.22,3.34,62.89,29.44,3,3.4,1
+EST-0117,Esmeralda Real,alumno0117@euniv.edu,9.86,8.2,8.83,10.0,5.89,8.56,72.67,82.51,2,15.8,0
+EST-0118,Graciana Marqués Castejón,alumno0118@euniv.edu,7.3,6.44,7.27,4.64,6.6,6.45,70.86,68.0,4,7.3,0
+EST-0119,Humberto Pinilla,alumno0119@euniv.edu,5.34,3.77,6.43,7.7,6.44,5.94,97.27,56.51,1,10.7,0
+EST-0120,Mario Mascaró Ramis,alumno0120@euniv.edu,8.91,9.05,6.07,6.4,6.73,7.43,82.61,71.57,1,12.1,0
+EST-0121,Serafina de Mateu,alumno0121@euniv.edu,10.0,4.26,7.81,6.36,6.75,7.04,84.98,63.07,1,11.4,0
+EST-0122,Cruz Ildefonso Montserrat Sola,alumno0122@euniv.edu,5.51,8.4,7.32,7.38,5.39,6.8,82.64,48.62,4,8.9,0
+EST-0123,Isaura García Vicente,alumno0123@euniv.edu,6.25,7.77,8.8,7.3,6.32,7.29,71.88,50.83,1,9.1,0
+EST-0124,Rosalina Doménech Blazquez,alumno0124@euniv.edu,6.4,7.25,6.17,7.18,6.42,6.68,65.25,53.09,2,9.6,0
+EST-0125,José Ángel Natanael Naranjo Bueno,alumno0125@euniv.edu,6.26,8.75,6.76,7.89,6.99,7.33,80.89,63.39,0,7.9,0
+EST-0126,Nicodemo del Gomila,alumno0126@euniv.edu,5.6,6.61,6.59,6.31,7.09,6.44,96.91,87.09,2,5.5,0
+EST-0127,Candelario Amat,alumno0127@euniv.edu,7.77,9.78,7.09,5.89,10.0,8.11,81.83,85.82,0,12.3,0
+EST-0128,Donato Talavera Beltran,alumno0128@euniv.edu,3.16,0.0,3.22,4.91,1.54,2.57,71.83,39.72,4,5.7,1
+EST-0129,Herminia Ferreras Plana,alumno0129@euniv.edu,2.05,4.13,6.3,2.65,0.06,3.04,65.55,24.25,9,0.0,1
+EST-0130,Gloria Hervás Coloma,alumno0130@euniv.edu,4.04,5.86,6.74,6.39,4.7,5.55,77.99,28.47,5,4.5,1
+EST-0131,Victoriano Campillo Rodríguez,alumno0131@euniv.edu,6.73,5.48,4.86,8.64,4.53,6.05,71.72,82.24,1,13.5,0
+EST-0132,Chus del Ayllón,alumno0132@euniv.edu,8.51,6.73,6.59,9.58,9.09,8.1,98.11,47.45,0,8.5,0
+EST-0133,Diana de Sastre,alumno0133@euniv.edu,6.59,5.2,5.02,8.1,3.04,5.59,79.28,41.03,7,4.8,1
+EST-0134,Salvador Sobrino Molins,alumno0134@euniv.edu,2.32,0.66,7.9,2.21,3.8,3.38,67.23,45.53,10,6.4,1
+EST-0135,María José Vargas Roldan,alumno0135@euniv.edu,6.13,8.91,8.59,8.05,7.83,7.9,84.14,84.63,1,11.7,0
+EST-0136,Itziar de Taboada,alumno0136@euniv.edu,7.19,7.6,10.0,8.24,2.88,7.18,85.78,100.0,3,11.9,0
+EST-0137,Dora Huertas Lluch,alumno0137@euniv.edu,7.55,7.96,9.49,6.33,10.0,8.27,80.77,74.69,2,5.8,0
+EST-0138,Julieta Haro,alumno0138@euniv.edu,8.45,5.2,6.06,6.33,4.89,6.19,91.48,67.82,1,11.3,0
+EST-0139,Isidro Berenguer-Macias,alumno0139@euniv.edu,7.6,5.63,9.41,5.58,6.7,6.98,94.33,44.47,1,4.7,0
+EST-0140,Elías del Montenegro,alumno0140@euniv.edu,5.25,10.0,7.01,10.0,6.98,7.85,86.85,97.76,4,16.0,0
+EST-0141,Anita de Contreras,alumno0141@euniv.edu,6.29,8.66,8.31,5.13,8.01,7.28,91.82,20.08,1,12.4,0
+EST-0142,Gregorio de Gargallo,alumno0142@euniv.edu,4.78,6.06,7.16,3.84,6.64,5.7,90.77,100.0,1,6.8,0
+EST-0143,Hipólito Ramón Muro,alumno0143@euniv.edu,10.0,7.45,10.0,4.51,5.74,7.54,88.49,44.61,0,6.5,0
+EST-0144,Josefa del Barrios,alumno0144@euniv.edu,4.45,1.02,4.78,3.93,3.36,3.51,54.05,49.24,3,2.4,1
+EST-0145,Sigfrido Rivera,alumno0145@euniv.edu,6.25,9.49,9.29,5.48,5.22,7.15,89.69,52.03,3,10.9,0
+EST-0146,Yolanda Aller Pintor,alumno0146@euniv.edu,7.82,7.63,6.42,6.51,7.59,7.19,88.67,86.44,2,7.6,0
+EST-0147,Adelaida Ortiz Martín,alumno0147@euniv.edu,5.35,6.27,6.48,4.26,3.13,5.1,74.73,74.45,2,10.3,1
+EST-0148,Tamara Rius Giménez,alumno0148@euniv.edu,3.49,5.35,7.73,4.04,6.83,5.49,71.43,78.4,2,9.9,1
+EST-0149,Constanza Llamas Ruano,alumno0149@euniv.edu,7.23,7.02,9.14,7.19,9.83,8.08,100.0,64.68,2,10.5,0
+EST-0150,Albina Porcel Navarrete,alumno0150@euniv.edu,4.37,1.04,7.09,7.93,2.05,4.5,74.9,81.14,0,16.2,1
+EST-0151,Paloma Dalmau Solsona,alumno0151@euniv.edu,6.72,4.3,3.03,4.09,3.07,4.24,76.02,27.24,7,2.5,1
+EST-0152,María Amores Prada,alumno0152@euniv.edu,6.87,6.24,6.19,4.98,6.45,6.15,93.81,52.48,5,10.0,0
+EST-0153,Marcela Amores-Blanes,alumno0153@euniv.edu,3.0,6.66,6.95,8.76,8.44,6.76,90.37,83.78,1,9.4,0
+EST-0154,Bernarda Serrano Espada,alumno0154@euniv.edu,8.07,7.48,7.8,5.53,5.82,6.94,89.83,60.16,2,8.5,0
+EST-0155,Eladio Pinilla Morán,alumno0155@euniv.edu,10.0,6.08,8.04,10.0,7.86,8.4,89.52,50.88,2,11.3,0
+EST-0156,Javi Morillo,alumno0156@euniv.edu,8.06,7.52,10.0,8.4,6.55,8.11,90.96,74.88,2,10.9,0
+EST-0157,Pía Pinilla Lobo,alumno0157@euniv.edu,8.67,6.09,2.48,5.21,8.63,6.22,84.77,52.01,2,8.5,0
+EST-0158,Dolores Bilbao Sosa,alumno0158@euniv.edu,5.28,5.56,5.11,2.65,7.67,5.25,97.57,42.67,4,13.7,0
+EST-0159,Reinaldo Azorin Olmo,alumno0159@euniv.edu,5.88,10.0,7.16,8.36,8.51,7.98,82.41,80.56,2,8.6,0
+EST-0160,Moreno de Arjona,alumno0160@euniv.edu,4.51,8.23,9.85,5.63,9.3,7.5,91.67,48.18,3,12.5,0
+EST-0161,Duilio Flores Almagro,alumno0161@euniv.edu,4.93,3.9,8.25,9.98,8.46,7.1,84.37,66.62,0,7.2,0
+EST-0162,Calista Dafne Cases Sáenz,alumno0162@euniv.edu,6.9,6.64,7.58,5.52,7.22,6.77,82.4,83.3,0,11.8,0
+EST-0163,Lope Gibert Sola,alumno0163@euniv.edu,9.6,7.05,9.19,7.3,8.61,8.35,78.54,53.61,1,10.3,0
+EST-0164,Rodolfo Peinado-Diez,alumno0164@euniv.edu,0.81,3.67,1.31,5.6,6.09,3.5,61.36,47.71,4,6.7,1
+EST-0165,María Dolores Piedad Carbó Céspedes,alumno0165@euniv.edu,4.33,6.29,2.53,4.63,5.96,4.75,75.01,43.41,7,7.0,1
+EST-0166,Baltasar Luis Miguel Amigó Mesa,alumno0166@euniv.edu,10.0,10.0,10.0,9.34,8.14,9.5,68.98,65.57,4,7.5,0
+EST-0167,Nicolasa Perez-Puente,alumno0167@euniv.edu,10.0,8.19,7.81,7.67,7.21,8.18,62.92,66.04,1,3.8,0
+EST-0168,Anselmo Herrero,alumno0168@euniv.edu,4.69,5.1,5.93,6.31,8.25,6.06,79.22,78.64,2,18.2,0
+EST-0169,Pablo Mata Carrillo,alumno0169@euniv.edu,8.38,6.65,7.43,6.57,9.94,7.79,85.21,100.0,1,9.8,0
+EST-0170,Ricarda Armengol-Olivera,alumno0170@euniv.edu,6.72,5.28,4.75,5.15,8.48,6.08,90.09,41.54,3,12.7,0
+EST-0171,Inés del Bayón,alumno0171@euniv.edu,3.33,4.46,7.1,5.81,3.72,4.88,61.09,1.27,3,1.8,1
+EST-0172,Miriam Nogueira,alumno0172@euniv.edu,5.9,5.13,6.6,7.1,4.34,5.81,99.11,68.23,5,10.1,0
+EST-0173,Teobaldo Rivera Trillo,alumno0173@euniv.edu,4.24,6.5,6.24,5.93,6.07,5.8,66.18,60.12,0,10.3,1
+EST-0174,Inocencio Paredes Segura,alumno0174@euniv.edu,2.77,7.62,7.84,8.62,7.15,6.8,93.46,100.0,1,7.8,0
+EST-0175,Isaac Echeverría Vélez,alumno0175@euniv.edu,3.72,6.78,5.15,5.08,0.93,4.33,63.07,6.96,6,7.5,1
+EST-0176,Mario Tomás-Sola,alumno0176@euniv.edu,7.45,9.4,10.0,10.0,6.99,8.77,82.91,39.7,3,7.6,0
+EST-0177,Sara Ledesma Mora,alumno0177@euniv.edu,7.95,8.5,6.54,8.76,7.15,7.78,84.86,79.83,1,10.0,0
+EST-0178,Severo de Lorenzo,alumno0178@euniv.edu,6.14,5.63,5.83,9.18,7.31,6.82,82.05,82.55,5,9.0,0
+EST-0179,Daniela Sobrino Pinilla,alumno0179@euniv.edu,3.47,4.27,4.15,6.56,9.42,5.57,100.0,81.48,1,11.5,0
+EST-0180,Albina Urrutia Morcillo,alumno0180@euniv.edu,4.88,5.18,6.0,5.45,2.74,4.85,92.48,50.69,3,10.7,0
+EST-0181,Jose Francisco Garay Pacheco,alumno0181@euniv.edu,8.28,9.83,4.09,7.19,5.46,6.97,83.94,100.0,4,5.5,0
+EST-0182,Francisco Losa-Llorente,alumno0182@euniv.edu,5.65,6.8,5.1,7.87,6.08,6.3,73.27,69.76,3,11.2,0
+EST-0183,Adelina de Boada,alumno0183@euniv.edu,5.35,2.89,4.63,0.0,9.09,4.39,67.3,61.49,6,3.0,1
+EST-0184,Plácido del Torres,alumno0184@euniv.edu,9.07,2.71,9.18,8.35,7.97,7.46,81.11,90.23,1,12.8,0
+EST-0185,Purificación de Tamayo,alumno0185@euniv.edu,4.55,3.82,5.17,7.85,8.02,5.88,90.13,83.05,1,11.5,0
+EST-0186,Jacinta Alemany Buendía,alumno0186@euniv.edu,7.74,7.66,8.44,7.57,6.93,7.67,95.7,69.52,0,7.4,0
+EST-0187,Dan Hermenegildo Hervia Medina,alumno0187@euniv.edu,1.25,1.26,3.86,3.21,4.39,2.79,68.65,40.54,4,5.8,1
+EST-0188,Flor Sáenz-Núñez,alumno0188@euniv.edu,5.11,6.63,6.62,6.31,9.49,6.83,83.06,65.24,3,4.0,0
+EST-0189,Petrona Muro Ortiz,alumno0189@euniv.edu,10.0,5.64,2.56,8.33,10.0,7.31,97.39,73.77,3,8.5,0
+EST-0190,Elba Medina Iglesias,alumno0190@euniv.edu,8.21,10.0,7.01,5.38,6.25,7.37,67.31,57.5,1,8.8,0
+EST-0191,Benito de Moles,alumno0191@euniv.edu,4.82,8.32,6.3,6.28,5.71,6.29,86.55,84.85,1,7.4,0
+EST-0192,Ramiro Esteve Feliu,alumno0192@euniv.edu,5.58,6.53,7.14,9.57,8.47,7.46,86.94,85.32,2,9.6,0
+EST-0193,Rafael Tomé,alumno0193@euniv.edu,7.88,10.0,10.0,5.61,8.94,8.49,76.84,73.45,4,10.2,0
+EST-0194,Porfirio Zamorano-Luna,alumno0194@euniv.edu,5.31,6.37,3.95,3.39,4.2,4.64,76.01,14.01,3,0.0,1
+EST-0195,Sigfrido Ferrera Marti,alumno0195@euniv.edu,5.48,8.91,6.89,6.84,7.42,7.11,73.61,88.7,2,9.8,0
+EST-0196,Geraldo de Mate,alumno0196@euniv.edu,2.86,3.45,6.49,5.66,6.14,4.92,56.31,67.86,4,1.7,1
+EST-0197,Paulino Castañeda Lledó,alumno0197@euniv.edu,6.37,4.5,7.63,5.38,5.89,5.95,75.06,23.88,2,9.4,1
+EST-0198,Amando Manzano Cases,alumno0198@euniv.edu,8.97,7.92,10.0,8.39,9.9,9.04,77.77,72.17,1,14.6,0
+EST-0199,Aroa Alberola Luís,alumno0199@euniv.edu,3.77,4.55,5.97,2.86,0.31,3.49,72.56,57.8,6,0.0,1
+EST-0200,Julia Saez Niño,alumno0200@euniv.edu,1.32,2.71,4.01,1.24,3.88,2.63,86.61,40.38,3,4.7,0
+EST-0201,Amancio Iriarte Tejedor,alumno0201@euniv.edu,3.52,3.63,6.51,5.2,2.2,4.21,72.47,48.97,5,7.4,1
+EST-0202,Segismundo Bas Pérez,alumno0202@euniv.edu,5.98,4.06,3.62,4.47,2.7,4.17,90.9,11.06,4,4.6,1
+EST-0203,Angelina Baeza Cordero,alumno0203@euniv.edu,8.14,0.79,3.19,4.05,3.84,4.0,57.68,48.06,8,5.1,1
+EST-0204,Santiago Mateu Blázquez,alumno0204@euniv.edu,10.0,5.55,8.34,6.81,8.77,7.89,85.19,58.45,2,11.5,0
+EST-0205,Benigno del Gonzalez,alumno0205@euniv.edu,8.81,8.42,6.72,4.13,6.29,6.87,100.0,81.13,2,9.4,0
+EST-0206,Fortunata Sanjuan,alumno0206@euniv.edu,9.59,7.19,7.15,8.48,7.21,7.92,84.34,100.0,0,9.3,0
+EST-0207,Emma Romeu Mayoral,alumno0207@euniv.edu,4.94,3.48,3.88,3.41,6.75,4.49,86.5,71.81,2,11.8,0
+EST-0208,María Teresa Barrena-Cabezas,alumno0208@euniv.edu,4.45,9.61,5.82,9.32,8.03,7.45,75.46,62.67,4,12.1,0
+EST-0209,Matías Galván,alumno0209@euniv.edu,4.85,8.02,7.7,5.78,8.84,7.04,80.95,63.5,1,0.0,0
+EST-0210,Natalio Bertrán-Crespo,alumno0210@euniv.edu,3.21,2.35,3.54,5.0,4.22,3.66,77.1,62.78,8,2.9,1
+EST-0211,Chema de Crespi,alumno0211@euniv.edu,7.09,7.85,8.63,7.12,6.78,7.49,85.34,50.43,1,6.7,0
+EST-0212,Hernando Sanjuan Soriano,alumno0212@euniv.edu,7.52,4.23,7.5,7.13,3.19,5.91,78.22,91.49,2,7.1,0
+EST-0213,Alcides David Maldonado Luna,alumno0213@euniv.edu,8.93,3.2,5.22,6.71,9.54,6.72,88.83,78.65,2,8.3,0
+EST-0214,Andrea Guillen Lamas,alumno0214@euniv.edu,7.47,3.59,8.19,4.5,5.61,5.87,87.5,100.0,5,19.3,0
+EST-0215,Nadia Figuerola-Rodríguez,alumno0215@euniv.edu,4.61,5.1,5.4,4.96,5.71,5.16,63.83,29.95,9,0.7,1
+EST-0216,Lalo Gomila Company,alumno0216@euniv.edu,5.45,5.73,3.67,4.07,1.47,4.08,66.43,56.03,6,5.7,1
+EST-0217,Severiano Cisneros-Bellido,alumno0217@euniv.edu,6.74,8.8,4.51,5.8,4.29,6.03,74.88,76.78,2,12.4,0
+EST-0218,Celestino Meléndez Malo,alumno0218@euniv.edu,8.48,6.77,5.64,6.56,3.1,6.11,89.09,51.47,3,5.9,0
+EST-0219,Beatriz Solís Mateu,alumno0219@euniv.edu,7.04,4.93,5.99,10.0,7.72,7.14,79.52,72.88,2,11.5,0
+EST-0220,Elena Vall Uribe,alumno0220@euniv.edu,10.0,7.11,7.47,7.05,7.09,7.74,68.32,46.09,1,10.2,0
+EST-0221,Anita Ariño Rosales,alumno0221@euniv.edu,6.92,3.1,3.04,7.26,2.21,4.51,53.39,25.09,6,2.0,1
+EST-0222,María Del Carmen Ibáñez Amigó,alumno0222@euniv.edu,5.32,5.81,9.31,8.71,3.96,6.62,93.3,84.61,2,6.6,0
+EST-0223,Darío Almansa Leon,alumno0223@euniv.edu,7.48,3.53,5.91,6.8,9.3,6.6,92.25,54.44,0,15.1,0
+EST-0224,Almudena Díez-Sosa,alumno0224@euniv.edu,3.54,7.23,7.33,6.19,8.32,6.52,81.66,80.16,1,6.9,0
+EST-0225,Modesta Salamanca,alumno0225@euniv.edu,7.96,7.69,8.41,7.33,7.76,7.83,93.26,62.14,1,5.2,0
+EST-0226,Cipriano Ruano-Téllez,alumno0226@euniv.edu,9.45,8.79,3.97,7.54,5.39,7.03,87.63,75.3,1,9.3,0
+EST-0227,Joel Oliveras Real,alumno0227@euniv.edu,4.89,5.06,4.65,4.8,6.18,5.12,77.84,82.28,1,14.5,0
+EST-0228,Estrella Calvo Cuevas,alumno0228@euniv.edu,5.1,5.05,4.34,5.54,5.07,5.02,57.62,55.64,5,6.7,1
+EST-0229,Guiomar Valbuena Maldonado,alumno0229@euniv.edu,6.59,5.51,8.55,9.3,7.58,7.51,99.53,45.91,2,12.1,0
+EST-0230,Ruth Arco Sanz,alumno0230@euniv.edu,5.17,4.53,3.34,1.01,2.96,3.4,70.04,54.28,4,4.0,1
+EST-0231,Fausto Iniesta Morales,alumno0231@euniv.edu,7.5,7.5,9.42,8.61,9.03,8.41,94.68,64.04,1,8.2,0
+EST-0232,Rolando Quintero Vilar,alumno0232@euniv.edu,10.0,10.0,5.57,5.62,8.87,8.01,90.47,79.88,2,9.2,0
+EST-0233,Nando Sevilla Reyes,alumno0233@euniv.edu,7.57,6.32,8.22,2.45,3.78,5.67,85.14,77.52,5,12.5,0
+EST-0234,Ciríaco Villegas Pardo,alumno0234@euniv.edu,4.52,7.26,4.43,7.64,6.5,6.07,100.0,64.94,1,11.3,0
+EST-0235,Prudencia Leticia Salamanca Aznar,alumno0235@euniv.edu,8.19,5.25,5.45,9.08,7.74,7.14,79.07,56.73,4,7.9,0
+EST-0236,Eliseo Castro,alumno0236@euniv.edu,10.0,8.7,6.44,8.96,3.26,7.47,85.03,75.9,1,12.8,0
+EST-0237,Isidoro Valerio Tormo Carrión,alumno0237@euniv.edu,2.53,4.66,2.59,3.47,2.41,3.13,76.51,55.45,3,3.3,1
+EST-0238,Maxi Heras Cuadrado,alumno0238@euniv.edu,10.0,6.0,10.0,9.79,8.51,8.86,100.0,76.7,3,11.2,0
+EST-0239,Leoncio Adrián Raya Buendía,alumno0239@euniv.edu,3.93,5.93,4.86,6.19,8.53,5.89,80.43,69.23,0,10.2,0
+EST-0240,Sosimo de Serrano,alumno0240@euniv.edu,5.8,7.99,7.19,6.38,6.64,6.8,79.4,66.51,4,8.0,0
+EST-0241,Moisés Correa Valentín,alumno0241@euniv.edu,5.16,4.16,5.18,5.97,5.21,5.14,62.94,86.15,1,13.8,1
+EST-0242,José Manuel Patricio Llano Ribes,alumno0242@euniv.edu,7.47,4.25,5.94,6.29,7.38,6.27,91.68,56.78,5,10.2,0
+EST-0243,Jovita Hervás Saura,alumno0243@euniv.edu,7.04,4.75,8.83,7.56,5.5,6.74,80.21,75.34,6,11.4,0
+EST-0244,Blanca del Farré,alumno0244@euniv.edu,4.03,2.01,2.42,5.88,3.07,3.48,59.92,26.35,4,1.9,1
+EST-0245,Liliana Piedad Cerezo Baños,alumno0245@euniv.edu,6.37,10.0,8.92,9.86,6.82,8.39,93.55,50.35,3,12.7,0
+EST-0246,Rolando Ribera-Nieto,alumno0246@euniv.edu,7.38,4.59,7.13,3.84,7.83,6.15,72.67,79.94,2,11.9,0
+EST-0247,Débora Acedo,alumno0247@euniv.edu,6.29,10.0,7.17,7.88,7.4,7.75,89.92,60.32,4,10.2,0
+EST-0248,Primitivo Eustaquio Tovar Comas,alumno0248@euniv.edu,6.9,6.87,7.14,3.54,7.66,6.42,91.12,51.7,0,9.3,0
+EST-0249,Lupita Tomé Ochoa,alumno0249@euniv.edu,8.49,5.22,3.04,7.45,4.14,5.67,91.92,94.03,0,11.9,0
+EST-0250,Mamen Pi Sarabia,alumno0250@euniv.edu,8.7,9.96,10.0,9.84,8.45,9.39,95.45,72.61,3,10.1,0
+EST-0251,Tomasa Fabregat Haro,alumno0251@euniv.edu,7.2,3.78,6.96,2.52,7.43,5.58,93.85,59.34,3,10.4,0
+EST-0252,Fátima Guillen-Reig,alumno0252@euniv.edu,9.83,6.31,8.12,8.71,4.96,7.59,80.15,92.16,1,15.1,0
+EST-0253,Federico Suárez Piquer,alumno0253@euniv.edu,10.0,7.04,7.4,8.62,10.0,8.61,93.54,77.47,3,11.4,0
+EST-0254,Narcisa Cornejo Valbuena,alumno0254@euniv.edu,6.73,4.23,7.0,5.93,9.46,6.67,100.0,61.62,0,9.5,0
+EST-0255,Bernardino Vallés Mármol,alumno0255@euniv.edu,2.75,3.93,5.88,4.67,4.8,4.41,77.99,47.72,6,3.0,1
+EST-0256,Ulises Sacristán Cabo,alumno0256@euniv.edu,4.66,5.68,4.14,5.02,3.27,4.55,68.04,36.29,2,1.8,1
+EST-0257,Zaida Saura,alumno0257@euniv.edu,4.89,7.58,4.94,7.17,6.9,6.3,95.52,51.73,0,7.7,0
+EST-0258,Poncio Cobos Redondo,alumno0258@euniv.edu,6.61,5.67,7.18,8.33,9.07,7.37,79.43,62.57,1,7.2,0
+EST-0259,Anselmo Soria Landa,alumno0259@euniv.edu,7.94,6.47,9.03,4.79,7.35,7.12,88.01,73.31,1,18.1,0
+EST-0260,Matilde Puga Bernat,alumno0260@euniv.edu,4.03,1.0,4.05,2.7,5.85,3.53,64.5,37.9,11,2.1,1
+EST-0261,Tamara Pinto Moliner,alumno0261@euniv.edu,4.11,1.67,4.11,7.27,6.44,4.72,69.38,57.13,4,2.9,1
+EST-0262,Trini Araujo Bayona,alumno0262@euniv.edu,4.67,1.94,3.57,9.03,1.98,4.24,76.61,2.26,4,6.6,1
+EST-0263,Maximiano del Gordillo,alumno0263@euniv.edu,5.21,5.33,5.31,7.8,4.31,5.59,87.21,91.92,1,8.5,0
+EST-0264,Isaac Cabello Cabrera,alumno0264@euniv.edu,10.0,8.35,7.04,8.87,6.02,8.06,91.81,77.35,1,9.1,0
+EST-0265,Carina Marí Andres,alumno0265@euniv.edu,5.16,6.41,3.05,5.03,0.44,4.02,64.15,39.44,3,1.3,1
+EST-0266,Fermín Barba Marcos,alumno0266@euniv.edu,6.83,5.96,2.27,2.48,5.21,4.55,89.58,20.54,5,8.5,1
+EST-0267,Florentina Rosa Coello,alumno0267@euniv.edu,6.55,2.46,7.68,6.69,7.21,6.12,100.0,32.49,1,15.2,0
+EST-0268,Juan Manuel del Escolano,alumno0268@euniv.edu,4.12,3.44,3.17,4.79,1.47,3.4,77.51,32.51,5,0.6,1
+EST-0269,Chucho Bermúdez Piñeiro,alumno0269@euniv.edu,7.53,9.63,5.98,7.5,6.48,7.42,97.96,57.06,1,12.2,0
+EST-0270,Nilda Dalila Valenciano Clemente,alumno0270@euniv.edu,8.17,8.45,7.79,8.39,10.0,8.56,94.85,85.64,4,8.6,0
+EST-0271,Jerónimo del Segura,alumno0271@euniv.edu,5.98,6.07,2.24,1.9,4.0,4.04,62.01,25.24,5,0.2,1
+EST-0272,Nazario Agustí-Sola,alumno0272@euniv.edu,6.03,8.54,7.9,8.87,5.03,7.27,85.1,100.0,6,8.9,0
+EST-0273,Nilo Leandro Cruz Benavent,alumno0273@euniv.edu,4.59,9.45,7.98,5.87,8.34,7.25,73.94,55.16,1,8.2,0
+EST-0274,Fabiola Martínez Rodrigo,alumno0274@euniv.edu,6.4,3.73,4.83,3.17,0.92,3.81,72.7,5.58,3,3.8,1
+EST-0275,Javier Matas-Flor,alumno0275@euniv.edu,9.64,8.19,10.0,6.48,8.98,8.66,87.0,74.75,3,13.8,0
+EST-0276,Tamara Tomas Campillo,alumno0276@euniv.edu,7.78,8.17,5.97,10.0,10.0,8.38,91.02,71.3,1,9.4,0
+EST-0277,Graciano del Marqués,alumno0277@euniv.edu,8.46,5.76,8.6,7.72,4.57,7.02,76.4,62.56,2,15.7,0
+EST-0278,Aitor Severino Priego Llobet,alumno0278@euniv.edu,2.94,8.15,7.07,7.08,2.4,5.53,81.71,90.76,1,8.4,0
+EST-0279,Lorenzo Avilés Valdés,alumno0279@euniv.edu,7.88,6.47,10.0,7.88,7.0,7.85,71.99,78.72,2,11.4,0
+EST-0280,Román Salomón Grau Ortuño,alumno0280@euniv.edu,6.64,7.11,5.38,6.36,1.82,5.46,78.42,78.16,3,7.1,0
+EST-0281,Maximino de Iglesia,alumno0281@euniv.edu,4.57,5.93,7.4,6.58,5.24,5.94,87.24,82.86,4,3.9,0
+EST-0282,Mauricio Caballero Ariza,alumno0282@euniv.edu,7.16,7.48,6.08,4.78,10.0,7.1,97.87,67.02,1,8.0,0
+EST-0283,Rufino Isidro Aragonés Patiño,alumno0283@euniv.edu,4.14,5.77,6.58,8.13,6.33,6.19,69.24,76.36,5,9.2,1
+EST-0284,Artemio Marquez Morillo,alumno0284@euniv.edu,10.0,8.63,10.0,7.1,7.46,8.64,87.74,72.73,3,13.8,0
+EST-0285,Carmelita Font Catalán,alumno0285@euniv.edu,7.48,5.45,10.0,1.5,7.51,6.39,67.35,65.94,1,9.7,0
+EST-0286,Valentina del Valls,alumno0286@euniv.edu,6.91,2.95,6.55,2.08,6.62,5.02,65.26,41.32,5,3.0,1
+EST-0287,Severo Córdoba-Jimenez,alumno0287@euniv.edu,2.91,2.35,0.15,6.47,3.61,3.1,66.62,66.93,3,2.6,1
+EST-0288,Rosenda Marquez Nevado,alumno0288@euniv.edu,5.96,8.62,7.33,7.09,6.93,7.19,83.94,71.5,1,8.4,0
+EST-0289,Joaquín Benet Chico,alumno0289@euniv.edu,5.97,6.36,5.08,8.11,6.47,6.4,79.96,76.2,2,9.8,0
+EST-0290,Tito del Paz,alumno0290@euniv.edu,8.85,7.52,9.52,4.17,7.82,7.58,78.97,77.78,1,11.4,0
+EST-0291,Ruperto Prat Alcalá,alumno0291@euniv.edu,7.8,6.39,9.52,7.34,2.77,6.76,81.25,51.31,1,5.1,0
+EST-0292,Julio Casals-Sanz,alumno0292@euniv.edu,8.69,6.86,5.21,7.12,5.47,6.67,78.05,49.22,1,4.7,0
+EST-0293,Nerea Juárez Piquer,alumno0293@euniv.edu,6.13,5.55,4.6,7.39,3.93,5.52,92.76,51.96,1,7.7,0
+EST-0294,Asunción Guillen Soto,alumno0294@euniv.edu,9.76,8.93,9.76,8.94,6.01,8.68,81.69,55.96,2,14.0,0
+EST-0295,Martín Mosquera Giralt,alumno0295@euniv.edu,7.39,8.31,8.2,6.7,5.8,7.28,66.74,46.35,2,15.3,0
+EST-0296,Maximino Simó Matas,alumno0296@euniv.edu,5.63,7.09,6.63,7.07,6.7,6.62,97.79,52.86,3,8.0,0
+EST-0297,Azahar Chaves Arrieta,alumno0297@euniv.edu,7.92,7.11,8.43,4.18,9.3,7.39,100.0,83.24,1,15.3,0
+EST-0298,Evaristo Ugarte Carmona,alumno0298@euniv.edu,6.68,9.3,6.11,9.36,10.0,8.29,91.95,75.11,1,7.0,0
+EST-0299,Desiderio Cerdá Pont,alumno0299@euniv.edu,6.48,10.0,9.4,7.93,7.25,8.21,64.74,50.72,1,15.7,0
+EST-0300,Flora Rius Cortes,alumno0300@euniv.edu,6.01,1.94,4.53,5.89,4.22,4.52,98.68,9.97,5,7.2,1
